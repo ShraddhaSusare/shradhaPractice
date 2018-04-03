@@ -7,3 +7,9 @@
 //
 
 import Foundation
+import UIKit
+class A  {
+    init() {
+        print("New label added")
+    }
+}
