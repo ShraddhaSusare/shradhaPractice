@@ -71,7 +71,7 @@ class RegistrationViewController: UIViewController,UITextFieldDelegate{
         if valid {
             signoutButton.isEnabled = true
             phoneErrorLabel.text = ""
-        print("save succesful")
+        print("save succesful save()")
             }else{
             print("Invalid")
             }

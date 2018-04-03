@@ -14,6 +14,7 @@
 		8070878B2064C3040015F9EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8070878A2064C3040015F9EF /* Assets.xcassets */; };
 		8070878E2064C3040015F9EF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8070878C2064C3040015F9EF /* LaunchScreen.storyboard */; };
 		80708796206502710015F9EF /* RegistrationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80708795206502710015F9EF /* RegistrationViewController.swift */; };
+		80DED7D420739C39009E03F0 /* newLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80DED7D320739C39009E03F0 /* newLabel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8070878D2064C3040015F9EF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8070878F2064C3040015F9EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		80708795206502710015F9EF /* RegistrationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegistrationViewController.swift; sourceTree = "<group>"; };
+		80DED7D320739C39009E03F0 /* newLabel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newLabel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				8070878A2064C3040015F9EF /* Assets.xcassets */,
 				8070878C2064C3040015F9EF /* LaunchScreen.storyboard */,
 				8070878F2064C3040015F9EF /* Info.plist */,
+				80DED7D320739C39009E03F0 /* newLabel.swift */,
 			);
 			path = LoginFirst;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				80708796206502710015F9EF /* RegistrationViewController.swift in Sources */,
+				80DED7D420739C39009E03F0 /* newLabel.swift in Sources */,
 				807087862064C3040015F9EF /* ViewController.swift in Sources */,
 				807087842064C3040015F9EF /* AppDelegate.swift in Sources */,
 				80394B9B206B948200941399 /* utils.swift in Sources */,
