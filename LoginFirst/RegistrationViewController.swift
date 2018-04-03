@@ -82,7 +82,6 @@ class RegistrationViewController: UIViewController,UITextFieldDelegate{
     }
     
     //MARK: Methods implementation
-    
     func validate()  {
         valid = true
         
