@@ -226,10 +226,10 @@
             </objects>
             <point key="canvasLocation" x="701" y="-20"/>
         </scene>
-        <!--View Controller-->
+        <!--New Label-->
         <scene sceneID="Mw4-oP-cQQ">
             <objects>
-                <viewController id="CG1-pb-hYm" sceneMemberID="viewController">
+                <viewController id="CG1-pb-hYm" customClass="NewLabel" customModule="LoginFirst" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="YLd-aW-U2T">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
